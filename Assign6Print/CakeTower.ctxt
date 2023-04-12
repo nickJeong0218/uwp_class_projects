@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CakeTower
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ askForSize()
+comment3.params=leftParam\ midParam\ rightParam\ sizeParam
+comment3.target=void\ drawBorder(char,\ char,\ char,\ int)
+comment4.params=sizeParam
+comment4.target=void\ drawFullBrickLine(int)
+comment5.params=sizeParam
+comment5.target=void\ drawHalfBrickLine(int)
+comment6.params=sizeParam
+comment6.target=void\ drawBrickStack(int)
+comment7.params=sizeParam
+comment7.target=void\ drawTop(int)
+comment8.params=sizeParam\ tierParam
+comment8.target=void\ drawBlock(int,\ int)
+comment9.params=sizeParam
+comment9.target=void\ drawTiers(int)
+numComments=10

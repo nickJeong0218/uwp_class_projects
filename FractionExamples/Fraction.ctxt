@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Fraction
+comment0.text=\r\n\ Fraction\ class\r\n\ \r\n\ This\ class\ models\ a\ fraction\ with\ an\ integer\r\n\ in\ both\ the\ numerator\ and\ denominator.\r\n\ It\ does\ not\ reduce\ the\ fraction.\r\n\ It\ does\ not\ notice\ if\ the\ denominator\ is\ zero.\r\n\ \r\n\ @author\ Erica\ Eddy\r\n\ @version\ December\ 2010\r\n
+comment1.params=
+comment1.target=Fraction()
+comment1.text=\r\n\ Default\ Constructor\ for\ objects\ of\ class\ Fraction\r\n\ Calls\ the\ other\ constructor\ using\ this()\r\n
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=numer\ denom
+comment2.target=Fraction(int,\ int)
+comment3.params=numer
+comment3.target=void\ setNumerator(int)
+comment4.params=denom
+comment4.target=void\ setDenominator(int)
+comment5.params=
+comment5.target=double\ toDouble()
+comment6.params=f2
+comment6.target=boolean\ equals(Fraction)
+comment7.params=frac2
+comment7.target=Fraction\ plus(Fraction)
+comment8.params=frac2\ result
+comment8.target=void\ plus(Fraction,\ Fraction)
+comment9.params=frac3\ result
+comment9.target=void\ badPlus(Fraction,\ Fraction)
+numComments=11

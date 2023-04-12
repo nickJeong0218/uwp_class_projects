@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ This\ class\ \ implements\ a\ playing\ card.\r\n\ \r\n\ Written\ by\:\ Erica\ Eddy\r\n
+comment1.params=rank\ suit
+comment1.target=Card(int,\ char)
+comment1.text=\r\n\ @param\ -\ a\ card\ must\ have\ a\ rank\ and\ suit\r\n
+comment2.params=
+comment2.target=int\ getRank()
+comment3.params=
+comment3.target=char\ getSuit()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ \ return\ a\ String\ name\ for\ the\ card\r\n\ \ @return\ s\ -\ a\ String\ of\ text\ describing\ the\ card\r\n
+numComments=5

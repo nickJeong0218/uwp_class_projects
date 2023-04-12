@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Inches
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arrayParam
+comment2.target=void\ printArrayValues(int[])
+comment3.params=arrayParam
+comment3.target=int\ sumInches(int[])
+comment4.params=arrayParam
+comment4.target=void\ printFeetAndInches(int[])
+comment5.params=upperLimit\ arrayParam
+comment5.target=int[]\ createLowerArray(int,\ int[])
+comment6.params=arrayParam
+comment6.target=int[]\ buildFeetArray(int[])
+numComments=7

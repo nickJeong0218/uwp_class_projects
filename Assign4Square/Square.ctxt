@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Square
+comment1.params=x\ y\ side
+comment1.target=Square(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Square\ that\r\n\ includes\ square\ placement\r\n
+comment2.params=e
+comment2.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment3.params=
+comment3.target=void\ startGUI()
+comment3.text=\r\n\ Add\ the\ square\ to\ the\ graphic\ window.\r\n\ Also,\ register\ a\ mouse\ handler.\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
