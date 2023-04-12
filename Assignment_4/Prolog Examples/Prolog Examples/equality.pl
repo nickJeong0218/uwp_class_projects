@@ -1,0 +1,1 @@
+valequal(Term1, Term2) :- X is Term1, Y is Term2, X=Y .
