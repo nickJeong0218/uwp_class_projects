@@ -1,0 +1,18 @@
+[
+  {
+    "_id": {"$oid": "63916803fa49500205dcd901"},
+    "address1": "",
+    "address2": "",
+    "appointment": "[{physician=, startDateTime={\"t\": 0, \"inc\": 0}, endDateTime={\"t\": 0, \"inc\": 0}, examinationRoom=false, medication={code=0, dose=0}}]",
+    "city": "",
+    "firstName": "",
+    "lastName": "",
+    "patientID": 0,
+    "phone": "(123) 456-7890",
+    "position": "",
+    "state": "",
+    "stays": "[{room={roomNumber=, roomType=, blockFloor=, blockCode=, unavailable=}, stayStart=Thu Dec 08 04:28:51 UTC 2022, stayEnd=Thu Dec 08 04:28:51 UTC 2022}]",
+    "undergoes": "[{treatment=, date=Thu Dec 08 04:28:51 UTC 2022}]",
+    "zipcode": 0
+  }
+]

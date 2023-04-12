@@ -1,0 +1,17 @@
+[
+  {
+    "_id": {"$oid": "6391037fbdf9a373d6c87291"},
+    "address1": "",
+    "address2": "",
+    "city": "",
+    "employeeID": 0,
+    "firstName": "",
+    "lastName": "",
+    "on_call": "[{blockFloor=, blockCode=, onCallStart={\"t\": 0, \"inc\": 0}, onCallEnd={\"t\": 0, \"inc\": 0}}]",
+    "phone": "(123) 456-7890",
+    "position": "",
+    "registered": false,
+    "state": "",
+    "zipcode": 0
+  }
+]

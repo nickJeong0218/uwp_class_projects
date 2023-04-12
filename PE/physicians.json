@@ -1,0 +1,19 @@
+[
+  {
+    "_id": {"$oid": "639166fdfa49500205dcd8ff"},
+    "address1": "",
+    "address2": "",
+    "appointment": "[{patient=, startDateTime={\"t\": 0, \"inc\": 0}, endDateTime={\"t\": 0, \"inc\": 0}, examinationRoom=false, medication={code=0, dose=0}}]",
+    "city": "",
+    "department": "{primaryAffiliation=false, head=false}",
+    "employeeID": 0,
+    "firstName": "",
+    "lastName": "",
+    "phone": "(123) 456-7890",
+    "position": "",
+    "state": "",
+    "trained_in": "[{treatment=, certificationDate=Thu Dec 08 04:24:28 UTC 2022, certificationExpires=Thu Dec 08 04:24:28 UTC 2022}]",
+    "treatment": "[{treatment=, date=Thu Dec 08 04:24:28 UTC 2022}]",
+    "zipcode": 0
+  }
+]
